@@ -1,8 +1,8 @@
 # 👋 Salut, moi c'est Antoine B
 
-- **Âge** : 25 ans
+- **Âge** : 26 ans
 - **Lieu** : Rodez (Aveyron, France)
-- **Profession** : Développeur Full Stack chez **LULILO** et freelance (**com'ON Création**)
+- **Profession** : Développeur Full Stack chez **C3rb Informatique** et freelance
 
 ## 🚀 Compétences & Technologies
 - Création de sites e-commerce PrestaShop, Shopify et WooCommerce
@@ -17,4 +17,4 @@ Je suis ouvert aux **collaborations** et aux **demandes de projets** ! N’hési
 ## 🔍 Quelques faits intéressants
 - Passionné par le web et toujours prêt pour de nouveaux défis techniques 🌐
 - Amoureux de la création sous toutes ses formes 🎨
-- Toujours en quête de projets innovants et inspirants !
+- Toujours en quête de projets innovants et inspirants
