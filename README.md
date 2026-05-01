@@ -1,20 +1,26 @@
-# 👋 Salut, moi c'est Antoine B
+# 👋 Antoine Bessaou
 
 - **Âge** : 26 ans
 - **Lieu** : Rodez (Aveyron, France)
-- **Profession** : Développeur Full Stack chez **C3rb Informatique** et freelance
+- **Profession** : Développeur web full stack et entrepreneur
 
 ## 🚀 Compétences & Technologies
-- Création de sites e-commerce PrestaShop, Shopify et WooCommerce
-- Actuellement en pleine montée en compétences sur **Symfony**, **Sylius** et **React**
-- Créations multimédia : **Vidéos**, **Photos**, et plus encore 🎬📸
+- Développement Laravel, React, Symfony
+- Site e-commerce (PrestaShop, Shopify, WooCommerce)
+- Site vitrine (Astro, WordPress)
+- Créations multimédia (vidéos, photos, ...)
+
+## ⚒️ Outils que j'aime
+Docker, OrbStack, Vite, PhpStorm, Laravel Cloud, Cloudflare R2, Dokploy, Resend, GitHub Actions ...
+
+## 💻 Projets
+- [Laravel/React] SaaS [MaestroLab](https://maestrolab.app/) (WIP)
+- [Fastify] Microservice d'analyse audio via `Essentia.js` et transcodage `ffmpeg` (Opus) pour MaestroLab
+- [Astro/Keystatic] Site vitrine moderne pour [Médiathéra](https://github.com/comONCreation/mediathera)
+- [Shopify] Boutique de merch pour [Rallye Rouergue Rodez Aveyron Occitanie](https://boutique.rallyerouergue.com/)
+- [WooCommerce] Site e-commerce (rdv en ligne) pour [Coiffeur Homme L'Artiste](https://lartiste-rodez.fr/)
+- [PrestaShop] Site e-commerce (produits) pour [Les Paniers du Ségala](https://lespaniersdusegala.fr/)
+- [PrestaShop] Site e-commerce (produits) pour [Les Jardins de l'Ortal](https://lesjardinsdelortal.fr/)
 
 ## 🤝 Collaborations & Projets
-Je suis ouvert aux **collaborations** et aux **demandes de projets** ! N’hésite pas à me contacter si tu as des idées, des projets ou tout simplement envie de discuter tech et création.
-
 📧 **Email** : [antoine@comoncreation.com](mailto:antoine@comoncreation.com)
-
-## 🔍 Quelques faits intéressants
-- Passionné par le web et toujours prêt pour de nouveaux défis techniques 🌐
-- Amoureux de la création sous toutes ses formes 🎨
-- Toujours en quête de projets innovants et inspirants
